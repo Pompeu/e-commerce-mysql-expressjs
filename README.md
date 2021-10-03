@@ -7,6 +7,9 @@
 - https://socket.io/ (notificação reatime)
 - https://pugjs.org/api/getting-started.html
 - https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+# https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM
+
 - http://vanilla-js.com/
 - https://babeljs.io/
 
